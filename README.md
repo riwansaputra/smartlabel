@@ -1,2 +1,0 @@
-# smartlabel
-0x
